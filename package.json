@@ -8,7 +8,7 @@
     "comment",
     "dwim"
   ],
-  "repository": "https://github.com/nobuhito/comment-dwim-light/blob/master/lib/comment-dwim-light.coffee",
+  "repository": "https://github.com/nobuhito/comment-dwim-light",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle comment-dwim-light'
+      'command': 'comment-dwim-light:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'comment-dwim-light'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'comment-dwim-light:toggle'
+        }
+      ]
+    ]
+  }
+]

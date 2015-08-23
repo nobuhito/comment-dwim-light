@@ -8,4 +8,4 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-text-editor:not([mini])':
-  'ctrl-;': 'comment-dwim-light:toggle'
+  'ctrl-shift-;': 'comment-dwim-light:toggle'

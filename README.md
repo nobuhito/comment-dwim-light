@@ -1,5 +1,7 @@
 # comment-dwim-light package for Atom
 
+<strong>Call the comment command you want (Do What I Mean). </strong>
+
 This package is inspired Emacs' comment-dwim.
 
 ## Feature

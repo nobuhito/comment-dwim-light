@@ -50,6 +50,8 @@ module.exports = CommentDwimLight =
 
     if r.start.row != r.end.row
       @multiLine(e)
+    else if r.start.column is 0
+      @multiLine(e)
     else if @lineText.trim() is ""
       @newLine(e)
     else

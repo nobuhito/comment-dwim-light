@@ -1,7 +1,7 @@
 {
   "name": "comment-dwim-light",
   "main": "./lib/comment-dwim-light",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "description": "This package is inspired Emacs' comment-dwim.",
   "keywords": [
     "Emacs",
